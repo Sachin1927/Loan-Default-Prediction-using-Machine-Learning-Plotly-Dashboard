@@ -110,14 +110,14 @@ XGBoost                 	~0.90	               ~0.94	              ~0.89
 
 
 📊 Dashboard Preview (Example)
-+-------------------------------------------------------+
-| Loan Default Risk Dashboard                           |
-|-------------------------------------------------------|
-| • Default rate by employment type                     |
-| • Loan amount vs. income (interactive scatter)         |
-| • Credit score vs. default probability (heatmap)       |
-| • Model performance metrics visualization              |
-+--------------------------------------------------------|
+
+| Loan Default Risk Dashboard                         
+
+| • Default rate by emploment type                   
+| • Loan amount vs. income (interactive scatter)   
+| • Credit score vs. default probability (heatmap)   
+| • Model performance metrics visualization         
++--------------------------------------------------
 
 📄 Future Improvements
 
@@ -129,7 +129,7 @@ Implement automated retraining and model monitoring.
 
 Extend dashboard for loan portfolio analytics.
 
-🧾 Folder Structure
+🧾 Folder Structure: 
 Loan_Default_Prediction/
 │
 ├── Loan_Default_Prediction_using_Machine_Learning.ipynb   # Main ML notebook
